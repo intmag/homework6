@@ -9,6 +9,7 @@ public class Main {
 
         System.out.println(dog.jump((float)0.1));
         System.out.println(cat.jump(3));
+        
     }
 
 }
